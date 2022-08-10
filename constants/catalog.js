@@ -50,7 +50,7 @@ const CATALOG = [
 },
 {
 	id: "el8",
-	name: " Корги "
+	name: " Корги ",
 	img: "https://i.ibb.co/7XFs4k2/ba11d6579281637d8323c5ecaf469073.jpg",
 	price: "2000",
 
