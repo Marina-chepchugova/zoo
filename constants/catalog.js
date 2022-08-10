@@ -2,7 +2,7 @@ const CATALOG = [
 {
 	id:"el1",
 	name: "Метис",
-	img:"'https://i.ibb.co/3CDDt8L/b2ed5813d69c21334932da1f479a7a7e.jpg ",
+	img:"https://i.ibb.co/3CDDt8L/b2ed5813d69c21334932da1f479a7a7e.jpg ",
 	price:"2000",
 
 },
